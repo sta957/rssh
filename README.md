@@ -1,9 +1,7 @@
 # RSSH
 
-## In development!
-
 [![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg)](https://www.rust-lang.org/)
-[![Generic badge](https://img.shields.io/badge/Status-In development-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-In_Development-orange.svg)](https://shields.io/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sta957/rssh/graphs/commit-activity)
 
 
